@@ -38,5 +38,5 @@ You can also try this key: 41c60ef6e74645238ca6aca9f99e9fc3
 
 11. You should also learn how to add 0xBUTT to your wallet, and if you can’t, simply search https://etherscan.io/  for your ETH address.
 
-12. Depending on the difficulty, you will be given an estimate telling you how long until the right solution is found.  When solution is found, you will need to spend some Ethereum for a transaction of 0xBUTT to be processed. After that, you will be able to see the 0xBUTT in your wallet.
+12. Depending on a difficulty, you will be given an estimate telling you how long until the right solution is found.  When solution is found, you will need to spend some Ethereum for a transaction of 0xBUTT to be processed. After that, you will be able to see the 0xBUTT in your wallet.
 
