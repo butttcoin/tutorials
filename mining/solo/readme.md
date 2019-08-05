@@ -11,7 +11,9 @@ https://github.com/lwYeo/SoliditySHA3Miner
 3. Scroll down, and download the tar or zip file (tar if Linux-based, zip if Windows-based)
 
 4. Extract the file to a folder of your choice.
+
 5. If on Windows, edit “0xbtcSolo.bat” with your text-editor. With Linux, edit the “0xbtcSolo.sh”.
+
 6.Change:
 contract=0xB6eD7644C69416d67B522e20bC294A9a9B405B31
 to
