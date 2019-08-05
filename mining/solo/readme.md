@@ -1,4 +1,4 @@
-## How to mine 0xBUTT (ButtCoin) ?
+## How to solo-mine 0xBUTT (ButtCoin) ?
 
 This is a quick tutorial on how to mine 0xBUTT. Please be aware that 0xBUTT difficulty gets rapidly increased and it does not decrease in 3 years or until 95% of the tokens are burned. If you find this how-to difficult to follow, chances are that you will get it wrong. Please DO NOT contact if something is not working. Instead, try figuring out why it didn’t work, since it is a straight-forward procedure.
 
