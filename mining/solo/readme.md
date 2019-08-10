@@ -12,6 +12,9 @@ https://github.com/lwYeo/SoliditySHA3Miner
 
 3. Scroll down, and download the tar or zip file (tar if Linux-based, zip if Windows-based)
 
+![Alt text](https://raw.githubusercontent.com/butttcoin/tutorials/master/mining/solo/2.png?raw=true "SoliditySha3Miner")
+
+
 4. Extract the file to a folder of your choice.
 
 5. If on Windows, edit “0xbtcSolo.bat” with your text-editor. With Linux, edit the “0xbtcSolo.sh”.
