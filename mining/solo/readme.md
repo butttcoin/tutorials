@@ -25,7 +25,7 @@ contract=0xB6eD7644C69416d67B522e20bC294A9a9B405B31
 to
 contract=0x7C1056ac0F7D223C4297e0c683453EE625011B1f
 
-![Alt text](https://raw.githubusercontent.com/butttcoin/tutorials/master/mining/solo/3.png?raw=true "Config") 
+![Alt text](https://raw.githubusercontent.com/butttcoin/tutorials/master/mining/solo/3_.png?raw=true "Config") 
 
 
 
