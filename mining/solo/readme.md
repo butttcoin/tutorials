@@ -7,6 +7,8 @@ This is a quick tutorial on how to mine 0xBUTT. Please be aware that 0xBUTT diff
 2. Go to SoliditySHA3Miner GitHub page, and locate the Latest Public Release (and click on it):
 https://github.com/lwYeo/SoliditySHA3Miner
 
+![Alt text](https://raw.githubusercontent.com/butttcoin/tutorials/master/mining/solo/1.png?raw=true "SoliditySha3Miner")
+
 
 3. Scroll down, and download the tar or zip file (tar if Linux-based, zip if Windows-based)
 
