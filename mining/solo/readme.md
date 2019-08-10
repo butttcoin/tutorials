@@ -32,8 +32,8 @@ contract=0x7C1056ac0F7D223C4297e0c683453EE625011B1f
 7. You will also need to extract your private key of the ETH address from your wallet. To do that, simply search for another tutorials, depending on the wallet that you use.
 
 Change:
-privateKey=YOUR_ETH_PRIVATE_KEY
-to
+
+privateKey=YOUR_ETH_PRIVATE_KEY to
 privateKey=WHATEVER_YOUR_PRIVATE_KEY_IS
 
 ![Alt text](https://raw.githubusercontent.com/butttcoin/tutorials/master/mining/solo/4.png?raw=true "Config") 
