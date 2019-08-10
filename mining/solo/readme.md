@@ -30,10 +30,15 @@ contract=0x7C1056ac0F7D223C4297e0c683453EE625011B1f
 
 
 7. You will also need to extract your private key of the ETH address from your wallet. To do that, simply search for another tutorials, depending on the wallet that you use.
+
 Change:
 privateKey=YOUR_ETH_PRIVATE_KEY
 to
 privateKey=WHATEVER_YOUR_PRIVATE_KEY_IS
+
+![Alt text](https://raw.githubusercontent.com/butttcoin/tutorials/master/mining/solo/4_.png?raw=true "Config") 
+
+
 
 8. At this point, you may want to save the file as 0xBUTTSolo.bat or .sh  However, if you can’t run, the common cause is that you need to go to infura.io, and register for an API address (for free). Furthermore, you may have to include ONLY the api key in the URL and not the other things such as “/v3/” you may need to change:
 web3api=https://mainnet.infura.io/ANueYSYQTstCr2mFJjPE
