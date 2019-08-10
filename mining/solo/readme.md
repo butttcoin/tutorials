@@ -36,7 +36,7 @@ Change:
 privateKey=YOUR_ETH_PRIVATE_KEY to
 privateKey=WHATEVER_YOUR_PRIVATE_KEY_IS
 
-![Alt text](https://raw.githubusercontent.com/butttcoin/tutorials/master/mining/solo/4.png?raw=true "Config") 
+![Alt text](https://raw.githubusercontent.com/butttcoin/tutorials/master/mining/solo/4a.png?raw=true "Config") 
 
 
 
