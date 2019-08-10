@@ -20,9 +20,14 @@ https://github.com/lwYeo/SoliditySHA3Miner
 5. If on Windows, edit “0xbtcSolo.bat” with your text-editor. With Linux, edit the “0xbtcSolo.sh”.
 
 6.Change:
+
 contract=0xB6eD7644C69416d67B522e20bC294A9a9B405B31
 to
 contract=0x7C1056ac0F7D223C4297e0c683453EE625011B1f
+
+![Alt text](https://raw.githubusercontent.com/butttcoin/tutorials/master/mining/solo/3.png?raw=true "Config")
+
+
 
 7. You will also need to extract your private key of the ETH address from your wallet. To do that, simply search for another tutorials, depending on the wallet that you use.
 Change:
